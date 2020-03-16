@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-portfolio",
+  "version": "1.0.0",
+  "description": "Thoshi&#39;s Portfolio Site",
+  "author": "Thoshikesh B",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {}
+}
