@@ -1,0 +1,109 @@
+/*
+* Inspiration: http://www.vlady.cc/
+* Grid system: http://reflexgrid.com/docs/
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,600");
+
+html {
+	/*scroll-behavior: smooth;*/
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Playfair Display', serif;
+}
+
+a {
+	text-decoration: none;
+	transition: 0.3s all ease;
+}
+
+p {
+	font-size: 1.1rem;
+	line-height: 1.6;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+section {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.flex-wrap {
+	display: flex;
+}
+
+.section-heading {
+	font-size: 2.4rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 80px;
+}
+
+/*Desktop only*/
+
+@media screen and (min-width: 1200px) {
+	.container {
+		max-width: 1170px;
+	}
+
+	.project-wrap {
+		padding-top: 120px;
+		padding-bottom: 120px;
+	}
+
+	[class*="col-"] {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	section {
+	    padding-top: 55px;
+	    padding-bottom: 55px;
+	}
+
+	.section-heading {
+		margin-bottom: 40px;
+	}
+
+}
+
+/*Mobile only*/
+
+@media screen and (max-width: 767.77px) {
+	
+	p {
+		font-size: 1rem;
+		text-align: center;
+	}
+
+	.about-photo {
+		margin: 0 auto;
+	}
+
+	.project-wrap {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.project-info {
+		text-align: center;
+	}
+
+	.social-links>a {
+		flex-basis: 49%;
+		font-size: 1.2rem;
+	}
+	
+}
