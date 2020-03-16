@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-portfolio
+        My Portfolio Site
       </h1>
       <h2 class="subtitle">
         Thoshi&#39;s Portfolio Site
