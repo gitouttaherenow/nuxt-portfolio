@@ -8,6 +8,7 @@
 </template>
 
 <script>
+
 import HomeHero from '@/components/HomeHero';
 import HomeAbout from '@/components/HomeAbout';
 import HomeProjects from '@/components/HomeProjects';

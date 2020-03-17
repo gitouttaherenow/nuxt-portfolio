@@ -1,18 +1,18 @@
 <template>
-    <section class="hero">
-		<div class="container">
-			<div class="intro">
-				<h1>I'm John Doe</h1>
-				<p>An UI/UX designer with focus on well converting designs.</p>
-			</div>
-			<a class="scroll-down" href="#work">See My Work</a>
-		</div>
-	</section>
+  <section class="hero">
+    <div class="container">
+      <div class="intro">
+        <h1>I'm John Doe</h1>
+        <p>An UI/UX designer with focus on well converting designs.</p>
+      </div>
+      <a class="scroll-down" href="#work">See My Work</a>
+    </div>
+  </section>
 </template>
 
 <script>
 export default {
-    name: 'HomeHero'
+  name: "HomeHero"
 };
 </script>
 
