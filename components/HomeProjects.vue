@@ -5,14 +5,14 @@
 			<div class="grid">
 				<div class="col-lg-5 col-md-6 col-sm-12">
 					<div class="project-info">
-						<h3>Blogger</h3>
+						<h3>Aditya Automotive Systems</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
 						<p>My role was UI / UX</p>
 						<a href="#" class="btn"><span>See Project →</span></a>
 					</div>
 				</div>
 				<div class="col-lg-7 col-md-6 col-sm-12">
-					<img class="animated fadeIn" src="../assets/blogger.jpg" alt="">
+					<img class="animated fadeIn" src="../assets/aditya-auto.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -23,14 +23,14 @@
                 <div class="grid">
                     <div class="col-lg-5 col-md-6 col-sm-12">
                         <div class="project-info">
-                            <h3>Tumblr</h3>
+                            <h3>Stellify GmbH</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
                             <p>My role was UI / UX</p>
                             <a href="#" class="btn"><span>See Project →</span></a>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-6 col-sm-12">
-                        <img class="animated fadeIn" src="../assets/tumblr.jpg" alt="">
+                        <img class="animated fadeIn" src="../assets/stellify-gmbh.png" alt="">
                     </div>
                 </div>
             </div>
@@ -41,14 +41,14 @@
                 <div class="grid">
                     <div class="col-lg-5 col-md-6 col-sm-12">
                         <div class="project-info">
-                            <h3>Wix</h3>
+                            <h3>Feast - Rachel Cole</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
                             <p>My role was UI / UX</p>
                             <a href="#" class="btn"><span>See Project →</span></a>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-6 col-sm-12">
-                        <img class="animated fadeIn" src="../assets/wix.jpg" alt="">
+                        <img class="animated fadeIn" src="../assets/rachel-cole.png" alt="">
                     </div>
                 </div>
             </div>

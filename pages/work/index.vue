@@ -1,15 +1,16 @@
 <template>
     <div id="app">
-        <HomeProjects></HomeProjects>
+        <nuxt/>
     </div>
 </template>
 
 <script>
-import HomeProjects from '@/components/HomeProjects';
+// import HomeProjects from '@/components/HomeProjects';
 
 export default {
+    layout: 'project',
     components: {
-		HomeProjects
-	}
+        // HomeProjects
+    }
 };
 </script>
