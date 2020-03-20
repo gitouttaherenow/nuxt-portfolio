@@ -12,15 +12,15 @@
         <div class="work-card-info">
           <h3  v-html="title">{{ title }}</h3>
           <div class="work-category">
-            <h4>Cateogries</h4>
+            <h4>Cateogries:</h4>
             <ul>
               <li>UI/UX</li>
               <li>Front-End</li>
             </ul>
+            <a :href="workImageURL" class="btn"><span>View →</span></a>
           </div>
         </div>
       </div>
-      <!-- <a :href="workImageURL" class="btn"><span>View →</span></a> -->
     </div>
   </div>
 </template>
