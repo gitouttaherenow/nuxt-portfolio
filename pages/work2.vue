@@ -1,35 +1,32 @@
 <template>
-  <div id="app">
-    <Navbar />
-    <ProjectHero />
-    <div class="container">
-      <section class="project-images">
-        <div class="grid">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <img src="@/assets/stellify-gmbh.png" alt="" />
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-12">
-            <img src="@/assets/blogger.jpg" alt="" />
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-12">
-            <img src="@/assets/tumblr.jpg" alt="" />
-          </div>
+  <div class="container">
+    <section>
+      <ProjectHero/>
+    </section>
+    <section class="project-images">
+      <div class="grid">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <img src="~/static/stellify-gmbh.png" alt="" />
         </div>
-      </section>
-    </div>
-    <nuxt />
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <img src="~/static/blogger.jpg" alt="" />
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <img src="~/static/tumblr.jpg" alt="" />
+        </div>
+      </div>
+    </section>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Navbar from "@/components/Navbar";
 import ProjectHero from "@/components/ProjectHero";
 
 export default {
   name: "app",
   components: {
-    Navbar,
+    // Navbar,
     ProjectHero
   }
 };

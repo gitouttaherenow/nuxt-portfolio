@@ -1,83 +1,111 @@
 <template>
-    <div id="work">
-        <section class="project-wrap project-1">
-		<div class="container">
-			<div class="grid">
-				<div class="col-lg-5 col-md-6 col-sm-12">
-					<div class="project-info">
-						<h3>Aditya Automotive Systems</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
-						<p>My role was UI / UX</p>
-						<a href="#" class="btn"><span>See Project →</span></a>
-					</div>
-				</div>
-				<div class="col-lg-7 col-md-6 col-sm-12">
-					<img class="animated fadeIn" src="../assets/aditya-auto.png" alt="">
-				</div>
-			</div>
-		</div>
-        </section>
-
-        <section class="project-wrap project-2">
-            <div class="container">
-                <div class="grid">
-                    <div class="col-lg-5 col-md-6 col-sm-12">
-                        <div class="project-info">
-                            <h3>Stellify GmbH</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
-                            <p>My role was UI / UX</p>
-                            <a href="#" class="btn"><span>See Project →</span></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-7 col-md-6 col-sm-12">
-                        <img class="animated fadeIn" src="../assets/stellify-gmbh.png" alt="">
-                    </div>
-                </div>
+  <div id="work">
+    <section class="project-wrap project-1">
+      <div class="container">
+        <div class="grid">
+          <div class="col-lg-5 col-md-6 col-sm-12">
+            <div class="project-info">
+              <h3>Aditya Automotive Systems</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias
+                reiciendis quod reprehenderit quaerat modi cupiditate.
+              </p>
+              <p>My role was UI / UX</p>
+              <a href="#" class="btn"><span>See Project →</span></a>
             </div>
-        </section>
+          </div>
+          <div class="col-lg-7 col-md-6 col-sm-12">
+            <img
+              class="animated fadeIn"
+              src="~/static/aditya-auto.png"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+    </section>
 
-        <section class="project-wrap project-3">
-            <div class="container">
-                <div class="grid">
-                    <div class="col-lg-5 col-md-6 col-sm-12">
-                        <div class="project-info">
-                            <h3>Feast - Rachel Cole</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
-                            <p>My role was UI / UX</p>
-                            <a href="#" class="btn"><span>See Project →</span></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-7 col-md-6 col-sm-12">
-                        <img class="animated fadeIn" src="../assets/rachel-cole.png" alt="">
-                    </div>
-                </div>
+    <section class="project-wrap project-2">
+      <div class="container">
+        <div class="grid">
+          <div class="col-lg-5 col-md-6 col-sm-12">
+            <div class="project-info">
+              <h3>Stellify GmbH</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias
+                reiciendis quod reprehenderit quaerat modi cupiditate.
+              </p>
+              <p>My role was UI / UX</p>
+              <a href="#" class="btn"><span>See Project →</span></a>
             </div>
-        </section>
+          </div>
+          <div class="col-lg-7 col-md-6 col-sm-12">
+            <img
+              class="animated fadeIn"
+              src="~/static/stellify-gmbh.png"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+    </section>
 
-        <section class="project-wrap project-4">
-            <div class="container">
-                <div class="grid">
-                    <div class="col-lg-5 col-md-6 col-sm-12">
-                        <div class="project-info">
-                            <h3>Yola</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias reiciendis quod reprehenderit quaerat modi cupiditate.</p>
-                            <p>My role was UI / UX</p>
-                            <a href="#" class="btn"><span>See Project →</span></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-7 col-md-6 col-sm-12">
-                        <img class="animated fadeIn" src="../assets/yola.jpg" alt="">
-                    </div>
-                </div>
+    <section class="project-wrap project-3">
+      <div class="container">
+        <div class="grid">
+          <div class="col-lg-5 col-md-6 col-sm-12">
+            <div class="project-info">
+              <h3>Feast - Rachel Cole</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias
+                reiciendis quod reprehenderit quaerat modi cupiditate.
+              </p>
+              <p>My role was UI / UX</p>
+              <a href="#" class="btn"><span>See Project →</span></a>
             </div>
-        </section>
-    </div>
+          </div>
+          <div class="col-lg-7 col-md-6 col-sm-12">
+            <img
+              class="animated fadeIn"
+              src="~/static/rachel-cole.png"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-wrap project-4">
+      <div class="container">
+        <div class="grid">
+          <div class="col-lg-5 col-md-6 col-sm-12">
+            <div class="project-info">
+              <h3>Yola</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Sapiente nostrum magni qui aliquam. Ipsum facilis, molestias
+                reiciendis quod reprehenderit quaerat modi cupiditate.
+              </p>
+              <p>My role was UI / UX</p>
+              <a href="#" class="btn"><span>See Project →</span></a>
+            </div>
+          </div>
+          <div class="col-lg-7 col-md-6 col-sm-12">
+            <img class="animated fadeIn" src="~/static/yola.jpg" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
 </template>
 
 <script>
 export default {
-    name: 'HomeProjects'
-}
+  name: "HomeProjects"
+};
 </script>
 
 <style lang="stylus" scoped>
