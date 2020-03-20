@@ -4,7 +4,7 @@
       <div class="container">
         <div class="grid">
           <WorkCard
-            v-for="work in portfolio"
+            v-for="work in workList"
             :key="work.id"
             :title="work.title.rendered"
             :workImageURL="work._embedded['wp:featuredmedia']['0'].source_url"
