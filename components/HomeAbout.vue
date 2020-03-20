@@ -5,7 +5,7 @@
 			<div class="grid">
 				<div class="col-lg-6 col-md-6 col-sm-12">
 					<div class="about-photo">
-						<img src="~/static/person.jpg" alt="">
+						<img src="../assets/person.jpg" alt="">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 about-text">
