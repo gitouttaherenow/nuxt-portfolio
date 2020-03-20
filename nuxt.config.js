@@ -23,9 +23,9 @@ export default {
   ** Global CSS
   */
   css: [
-    '~/assets/css/normalize.css',
-    '~/assets/css/reflex.css',
-    '~/assets/css/style.css'
+    '~/static/css/normalize.css',
+    '~/static/css/reflex.css',
+    '~/static/css/style.css'
   ],
   /*
   ** Plugins to load before mounting the App

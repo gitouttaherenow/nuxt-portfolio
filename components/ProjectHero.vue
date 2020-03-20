@@ -9,7 +9,7 @@
           </h2>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum alias iure nulla repellat perspiciatis,</p>
+          <p>Lorem ipsum dolor sit amet  adipisicing elit. Nostrum alias iure nulla repellat perspiciatis,</p>
           <p>Quibusdam commodi laudantium tempora necessitatibus natus, voluptate quis dolorum accusantium corporis maxime, sunt eos aspernatur a.</p>
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p>
         </div>
