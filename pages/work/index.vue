@@ -19,7 +19,7 @@
 import WorkCard from "@/components/WorkCard";
 import axios from 'axios'
 
-const url = "http://www.thoshikesh.com/wp-json/wp/v2/posts?_embed";
+const url = "https://www.thoshikesh.com/wp-json/wp/v2/posts?_embed";
 
 export default {
   components: {
