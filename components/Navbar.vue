@@ -30,7 +30,7 @@ export default {
 
 .main-menu a {
 	margin: 0 30px;
-	color: #000;
+	color: #fff;
 	text-transform: lowercase;
 	font-weight: 600;
 }
