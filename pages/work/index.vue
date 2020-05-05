@@ -22,7 +22,6 @@ import axios from 'axios'
 const url = "https://www.thoshikesh.com/wp-json/wp/v2/posts?_embed";
 
 export default {
-  layout: "work",
   components: {
     WorkCard
   },
