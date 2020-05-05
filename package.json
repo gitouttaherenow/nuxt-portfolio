@@ -4,11 +4,10 @@
   "description": "Thoshi&#39;s Portfolio Site",
   "author": "Thoshikesh B",
   "private": true,
-  "prestart": "nuxt build",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt build && npm start",
+    "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
