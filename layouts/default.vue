@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <Navbar />
-    <h2>okay okay</h2>
     <router-view />
   </div>
 </template>
@@ -17,8 +16,3 @@ export default {
   }
 };
 </script>
-
-<style lang="stylus" scoped>
-body
-  background #000
-</style>
