@@ -16,7 +16,7 @@ export default {
 };
 </script>
 
-<style lang="stylus" scoped>
+<style lang="stylus">
 .main-menu {
 	display: flex;
     justify-content: center;

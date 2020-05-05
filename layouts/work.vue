@@ -16,3 +16,12 @@ export default {
   }
 };
 </script>
+
+<style lang="stylus">
+
+// delete this to get homepage menubar white
+
+.main-menu a {
+	color: #000;
+}
+</style>
