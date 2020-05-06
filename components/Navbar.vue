@@ -28,6 +28,10 @@ export default {
     z-index: 99;
 }
 
+.work-page .main-menu a {
+	color: #000;
+}
+
 .main-menu a {
 	margin: 0 30px;
 	color: #fff;
