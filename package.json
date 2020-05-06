@@ -8,6 +8,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
+    "start:eb": "npm run generate",
     "generate": "nuxt generate"
   },
   "dependencies": {
